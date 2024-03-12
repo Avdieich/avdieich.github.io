@@ -1,0 +1,53 @@
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between ;
+    background-color: #d18e8f;
+    width: 100%;
+    align-items: center;
+} 
+nav ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row; 
+ }
+  ul li{
+    margin: 10px;
+ }
+ p{
+    font-size: 34px;
+    color: rgb(67, 67, 121);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+.collage{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div p{
+    align-items: center;
+}
+.Milanezzi{
+    background-color:#ffb9ff;
+}
+.Huesos{
+    background-color:#ffb9ff;
+}
+.Luita{
+    background-color: #ffb9ff;
+    align-items: center;
+}
+.galeria{
+    background-color: #b3dbc8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+}
+.caja{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
